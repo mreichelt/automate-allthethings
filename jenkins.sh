@@ -1,3 +1,3 @@
 #!/bin/bash
 
-./gradlew clean app:assembleDebug
+./gradlew clean app:assembleDebug testDebug
